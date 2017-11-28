@@ -2,7 +2,7 @@
 
 #Genome-wide variant calling specially for re-sequencing data
 #Dependencies: GATK, BWA, Picard, Samtools, Bedtools, SnpEff
-#Sometimes you need to set the PATH of particular tools: written in the code as PATH_to_Picard, PATH_to_GATK
+#You need to set the PATH of particular tools when it is written in the code as PATH_to_Picard, PATH_to_GATK
 
 #Step1: Mapping fastq files using bwa
 
